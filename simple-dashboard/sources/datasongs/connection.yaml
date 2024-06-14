@@ -1,0 +1,5 @@
+# This file was automatically generated
+name: datasongs
+type: duckdb
+options:
+  filename: datasongs.duckdb
